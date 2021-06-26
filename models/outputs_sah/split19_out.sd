@@ -1,0 +1,3250 @@
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -18.1204   13.4851  -15.2462 C   0  0  0  0  0  0
+  -17.2956   14.0222  -16.3181 N   0  0  0  0  0  0
+  -16.5496   13.0564  -17.1035 C   0  0  0  0  0  0
+  -17.0040   15.3639  -16.3634 C   0  0  0  0  0  0
+  -17.5773   16.2972  -15.6723 N   0  0  0  0  0  0
+  -17.0888   17.5524  -15.8740 C   0  0  0  0  0  0
+  -16.1897   18.0215  -16.8133 C   0  0  0  0  0  0
+  -16.0589   19.3931  -16.5748 C   0  0  0  0  0  0
+  -16.8222   19.8113  -15.5669 N   0  0  0  0  0  0
+  -17.5077   18.6914  -15.1675 N   0  0  0  0  0  0
+  -18.5024   18.7856  -14.1450 C   0  0  0  0  0  0
+  -19.0143   17.6574  -13.6004 N   0  0  0  0  0  0
+  -19.9822   17.7287  -12.6282 N   0  0  0  0  0  0
+  -20.4203   18.9342  -12.2245 C   0  0  0  0  0  0
+  -21.6391   18.9151  -11.0250 Cl  0  0  0  0  0  0
+  -19.9255   20.1140  -12.7393 C   0  0  0  0  0  0
+  -18.9403   20.0391  -13.7226 C   0  0  0  0  0  0
+  -15.5254   17.2625  -17.8188 C   0  0  0  0  0  0
+  -14.9521   16.6948  -18.6509 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-58.33976371,65.82064481,-47.75686463,64.33462592,-30.33819024,-54.90305127
+-155.95804839,-161.13868006
+
+>  <CHROM.1>
+8.86407686,10.67990505,-18.14829577,17.50455604,-14.80268236,0.57370876,-0.80970215
+-2.99704072
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-40.659
+
+>  <SCORE.INTER>
+-14.8197
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-1.38716
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-17.5033
+
+>  <SCORE.INTER.norm>
+-0.779984
+
+>  <SCORE.INTRA>
+-18.5167
+
+>  <SCORE.INTRA.DIHEDRAL>
+-44.4877
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0.445203
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.50116
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-0.974561
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-7.32269
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+5.97867
+
+>  <SCORE.SYSTEM.POLAR>
+-3.76362
+
+>  <SCORE.SYSTEM.VDW>
+2.48428
+
+>  <SCORE.SYSTEM.norm>
+-0.385405
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-2.13995
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -21.6838   19.3953  -11.2777 C   0  0  0  0  0  0
+  -23.1391   19.3979  -11.2736 N   0  0  0  0  0  0
+  -23.7865   18.1023  -11.3657 C   0  0  0  0  0  0
+  -23.8315   20.5642  -11.4917 C   0  0  0  0  0  0
+  -23.3397   21.7623  -11.4772 N   0  0  0  0  0  0
+  -24.2275   22.7577  -11.7531 C   0  0  0  0  0  0
+  -25.5844   22.6994  -12.0098 C   0  0  0  0  0  0
+  -25.9989   24.0197  -12.2105 C   0  0  0  0  0  0
+  -25.0018   24.8931  -12.0821 N   0  0  0  0  0  0
+  -23.9160   24.1268  -11.7395 N   0  0  0  0  0  0
+  -22.6668   24.7498  -11.4307 C   0  0  0  0  0  0
+  -22.4782   26.0576  -11.7235 N   0  0  0  0  0  0
+  -21.2789   26.6685  -11.4485 N   0  0  0  0  0  0
+  -20.2896   25.9510  -10.8874 C   0  0  0  0  0  0
+  -18.8312   26.7975  -10.6031 Cl  0  0  0  0  0  0
+  -20.4327   24.6190  -10.5604 C   0  0  0  0  0  0
+  -21.6520   24.0025  -10.8364 C   0  0  0  0  0  0
+  -26.3978   21.5315  -12.0643 C   0  0  0  0  0  0
+  -27.1061   20.6163  -12.1278 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-173.12618342,-73.26670880,-163.96428500,64.38492207,-30.09245894,59.80693371
+-156.11037046,-46.00760133
+
+>  <CHROM.1>
+2.12456948,166.91964267,-22.87975038,23.32690221,-11.42051977,-2.26739316
+-0.23262644,-0.04957667
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-36.5287
+
+>  <SCORE.INTER>
+-10.6515
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-2.24695
+
+>  <SCORE.INTER.REPUL>
+0.0201886
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-10.5128
+
+>  <SCORE.INTER.norm>
+-0.560606
+
+>  <SCORE.INTRA>
+-20.8758
+
+>  <SCORE.INTRA.DIHEDRAL>
+-44.942
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.5952
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.09873
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-5.00139
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+9.05613
+
+>  <SCORE.SYSTEM.POLAR>
+-3.68787
+
+>  <SCORE.SYSTEM.REPUL>
+0.0609577
+
+>  <SCORE.SYSTEM.VDW>
+2.70452
+
+>  <SCORE.SYSTEM.norm>
+-0.263231
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.92256
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -21.7045   19.3127  -11.2744 C   0  0  0  0  0  0
+  -23.1588   19.3212  -11.3255 N   0  0  0  0  0  0
+  -23.8080   18.0271  -11.4283 C   0  0  0  0  0  0
+  -23.8374   20.4877  -11.5821 C   0  0  0  0  0  0
+  -23.3414   21.6839  -11.5617 N   0  0  0  0  0  0
+  -24.2137   22.6798  -11.8817 C   0  0  0  0  0  0
+  -25.5603   22.6242  -12.1883 C   0  0  0  0  0  0
+  -25.9611   23.9438  -12.4190 C   0  0  0  0  0  0
+  -24.9655   24.8146  -12.2630 N   0  0  0  0  0  0
+  -23.8967   24.0478  -11.8716 N   0  0  0  0  0  0
+  -22.6572   24.6691  -11.5231 C   0  0  0  0  0  0
+  -22.4195   25.9483  -11.8952 N   0  0  0  0  0  0
+  -21.2277   26.5560  -11.5829 N   0  0  0  0  0  0
+  -20.2951   25.8638  -10.9053 C   0  0  0  0  0  0
+  -18.8400   26.7024  -10.5828 Cl  0  0  0  0  0  0
+  -20.4903   24.5620  -10.4942 C   0  0  0  0  0  0
+  -21.7021   23.9490  -10.8085 C   0  0  0  0  0  0
+  -26.3764   21.4591  -12.2603 C   0  0  0  0  0  0
+  -27.0859   20.5461  -12.3402 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-61.10835698,-167.73464665,-8.37272457,64.45269293,-29.93894722,-56.74799190
+-156.57752616,-162.78145014
+
+>  <CHROM.1>
+2.16212223,162.88544040,-22.87564588,23.24580078,-11.50669994,-2.27640910
+-0.27230843,-0.06650490
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-35.236
+
+>  <SCORE.INTER>
+-8.14604
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-1.54513
+
+>  <SCORE.INTER.REPUL>
+0.00348283
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-10.31
+
+>  <SCORE.INTER.norm>
+-0.428739
+
+>  <SCORE.INTRA>
+-20.6948
+
+>  <SCORE.INTRA.DIHEDRAL>
+-44.4972
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.55378
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.0892
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-6.39517
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+9.50106
+
+>  <SCORE.SYSTEM.POLAR>
+-4.37637
+
+>  <SCORE.SYSTEM.VDW>
+3.73394
+
+>  <SCORE.SYSTEM.norm>
+-0.336588
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.85453
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -19.8697   19.4744  -15.9115 C   0  0  0  0  0  0
+  -18.6003   20.1791  -15.8125 N   0  0  0  0  0  0
+  -18.6494   21.5223  -15.2649 C   0  0  0  0  0  0
+  -17.4965   19.7187  -16.4883 C   0  0  0  0  0  0
+  -17.3699   18.5587  -17.0502 N   0  0  0  0  0  0
+  -16.1845   18.3483  -17.6871 C   0  0  0  0  0  0
+  -15.0239   19.0991  -17.6866 C   0  0  0  0  0  0
+  -14.1156   18.4108  -18.4968 C   0  0  0  0  0  0
+  -14.6226   17.2812  -18.9871 N   0  0  0  0  0  0
+  -15.8801   17.2044  -18.4425 N   0  0  0  0  0  0
+  -16.6975   16.0565  -18.6835 C   0  0  0  0  0  0
+  -16.3684   15.1936  -19.6727 N   0  0  0  0  0  0
+  -17.1510   14.0940  -19.9288 N   0  0  0  0  0  0
+  -18.2531   13.8850  -19.1871 C   0  0  0  0  0  0
+  -19.1694   12.5006  -19.5973 Cl  0  0  0  0  0  0
+  -18.6280   14.7274  -18.1617 C   0  0  0  0  0  0
+  -17.8298   15.8400  -17.9010 C   0  0  0  0  0  0
+  -14.7977   20.3283  -17.0037 C   0  0  0  0  0  0
+  -14.5594   21.3325  -16.4763 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-59.77880594,-74.59502766,111.74249854,63.58108549,168.39657627,34.86666879
+83.42411749,-161.07778362
+
+>  <CHROM.1>
+9.62430259,164.95758586,-17.12657188,17.20033284,-17.92699818,1.34213981
+0.32962777,0.48618631
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-35.0725
+
+>  <SCORE.INTER>
+-13.1219
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.698897
+
+>  <SCORE.INTER.REPUL>
+0.0111304
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-18.2013
+
+>  <SCORE.INTER.norm>
+-0.690625
+
+>  <SCORE.INTRA>
+-20.4898
+
+>  <SCORE.INTRA.DIHEDRAL>
+-43.969
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.49467
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.07841
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-1.46083
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+8.18577
+
+>  <SCORE.SYSTEM.POLAR>
+-4.55657
+
+>  <SCORE.SYSTEM.REPUL>
+0.0412586
+
+>  <SCORE.SYSTEM.VDW>
+9.73234
+
+>  <SCORE.SYSTEM.norm>
+-0.0768859
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.84592
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -21.6408   19.3145  -11.4468 C   0  0  0  0  0  0
+  -23.0955   19.2945  -11.4853 N   0  0  0  0  0  0
+  -23.7184   17.9935  -11.6459 C   0  0  0  0  0  0
+  -23.8006   20.4574  -11.6789 C   0  0  0  0  0  0
+  -23.3295   21.6615  -11.6041 N   0  0  0  0  0  0
+  -24.2253   22.6530  -11.8676 C   0  0  0  0  0  0
+  -25.5796   22.5859  -12.1358 C   0  0  0  0  0  0
+  -26.0062   23.9055  -12.3143 C   0  0  0  0  0  0
+  -25.0192   24.7864  -12.1615 N   0  0  0  0  0  0
+  -23.9281   24.0247  -11.8253 N   0  0  0  0  0  0
+  -22.6878   24.6543  -11.4950 C   0  0  0  0  0  0
+  -22.5188   25.9745  -11.7400 N   0  0  0  0  0  0
+  -21.3282   26.5925  -11.4438 N   0  0  0  0  0  0
+  -20.3278   25.8697  -10.9101 C   0  0  0  0  0  0
+  -18.8815   26.7266  -10.5962 Cl  0  0  0  0  0  0
+  -20.4509   24.5247  -10.6318 C   0  0  0  0  0  0
+  -21.6614   23.9008  -10.9292 C   0  0  0  0  0  0
+  -26.3805   21.4111  -12.2191 C   0  0  0  0  0  0
+  -27.0788   20.4901  -12.3056 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-172.54680084,-74.22734396,-167.45573600,64.63909108,-29.41084218,61.39904096
+-36.89411392,-163.93854520
+
+>  <CHROM.1>
+3.80804104,168.05662946,-22.88380901,23.22982484,-11.52185064,-2.25502117
+-0.23658345,-0.01960699
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-38.5607
+
+>  <SCORE.INTER>
+-10.6319
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-2.12782
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-10.7973
+
+>  <SCORE.INTER.norm>
+-0.559572
+
+>  <SCORE.INTRA>
+-20.9113
+
+>  <SCORE.INTRA.DIHEDRAL>
+-45.016
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.59672
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.10059
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-7.0176
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+6.95201
+
+>  <SCORE.SYSTEM.POLAR>
+-3.99048
+
+>  <SCORE.SYSTEM.REPUL>
+0.0406533
+
+>  <SCORE.SYSTEM.VDW>
+2.87076
+
+>  <SCORE.SYSTEM.norm>
+-0.369347
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-2.02951
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -19.2328   19.0067  -13.8463 C   0  0  0  0  0  0
+  -19.5588   17.7129  -14.4274 N   0  0  0  0  0  0
+  -20.7595   17.0667  -13.9300 C   0  0  0  0  0  0
+  -18.6199   17.0223  -15.1544 C   0  0  0  0  0  0
+  -17.4999   17.4924  -15.6037 N   0  0  0  0  0  0
+  -16.7220   16.5980  -16.2745 C   0  0  0  0  0  0
+  -16.9253   15.2559  -16.5356 C   0  0  0  0  0  0
+  -15.8173   14.8319  -17.2757 C   0  0  0  0  0  0
+  -14.9497   15.8158  -17.5054 N   0  0  0  0  0  0
+  -15.5306   16.9244  -16.9423 N   0  0  0  0  0  0
+  -14.9104   18.2056  -17.0758 C   0  0  0  0  0  0
+  -13.7918   18.3351  -17.8264 N   0  0  0  0  0  0
+  -13.1735   19.5552  -17.9528 N   0  0  0  0  0  0
+  -13.6900   20.6223  -17.3182 C   0  0  0  0  0  0
+  -12.8363   22.0899  -17.5230 Cl  0  0  0  0  0  0
+  -14.8324   20.5471  -16.5494 C   0  0  0  0  0  0
+  -15.4604   19.3088  -16.4262 C   0  0  0  0  0  0
+  -18.0357   14.4616  -16.1299 C   0  0  0  0  0  0
+  -18.9102   13.7661  -15.8218 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-61.77682901,68.16130976,-128.30183867,64.14734962,-31.12583091,178.58122336
+-156.73836406,-164.19611656
+
+>  <CHROM.1>
+-1.23730850,-176.32700242,-16.14769576,17.97960619,-16.38441250,2.56554140
+-0.54591847,-2.90384883
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-41.8066
+
+>  <SCORE.INTER>
+-13.8401
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-1.15734
+
+>  <SCORE.INTER.REPUL>
+0.0233347
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-17.4218
+
+>  <SCORE.INTER.norm>
+-0.728425
+
+>  <SCORE.INTRA>
+-21.0069
+
+>  <SCORE.INTRA.DIHEDRAL>
+-45.3238
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.65503
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.10562
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-6.9596
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+8.78329
+
+>  <SCORE.SYSTEM.POLAR>
+-4.27722
+
+>  <SCORE.SYSTEM.VDW>
+3.19129
+
+>  <SCORE.SYSTEM.norm>
+-0.366295
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-2.20035
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -20.0814   25.6547  -10.1931 C   0  0  0  0  0  0
+  -21.5160   25.7801   -9.9837 N   0  0  0  0  0  0
+  -21.9411   26.7601   -9.0011 C   0  0  0  0  0  0
+  -22.3727   24.8133  -10.4512 C   0  0  0  0  0  0
+  -22.0810   23.8708  -11.2902 N   0  0  0  0  0  0
+  -23.0994   23.0131  -11.5771 C   0  0  0  0  0  0
+  -24.4142   23.0122  -11.1506 C   0  0  0  0  0  0
+  -25.0217   21.9135  -11.7664 C   0  0  0  0  0  0
+  -24.1842   21.2425  -12.5549 N   0  0  0  0  0  0
+  -23.0104   21.9508  -12.4911 N   0  0  0  0  0  0
+  -21.8943   21.5642  -13.2965 C   0  0  0  0  0  0
+  -21.9080   20.3708  -13.9345 N   0  0  0  0  0  0
+  -20.8376   19.9760  -14.6997 N   0  0  0  0  0  0
+  -19.7709   20.7878  -14.8056 C   0  0  0  0  0  0
+  -18.4837   20.1971  -15.7641 Cl  0  0  0  0  0  0
+  -19.7098   22.0175  -14.1845 C   0  0  0  0  0  0
+  -20.7990   22.4177  -13.4122 C   0  0  0  0  0  0
+  -25.0279   23.9389  -10.2600 C   0  0  0  0  0  0
+  -25.5775   24.6581   -9.5361 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-60.45325328,-168.74090198,-167.46497996,62.76252835,-30.66692011,63.56338985
+84.15971887,-161.58369576
+
+>  <CHROM.1>
+2.50719592,167.80881000,-21.87854581,22.67283158,-12.38000139,-2.10304712
+-0.28931336,-2.45327501
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-34.9293
+
+>  <SCORE.INTER>
+-7.83701
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.498338
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-13.5427
+
+>  <SCORE.INTER.norm>
+-0.412474
+
+>  <SCORE.INTRA>
+-20.9108
+
+>  <SCORE.INTRA.DIHEDRAL>
+-45.0252
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.60181
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.10057
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-6.18155
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+6.26323
+
+>  <SCORE.SYSTEM.POLAR>
+-3.6525
+
+>  <SCORE.SYSTEM.VDW>
+3.10535
+
+>  <SCORE.SYSTEM.norm>
+-0.325345
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.83839
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -21.6720   19.3739  -11.1899 C   0  0  0  0  0  0
+  -23.1271   19.3760  -11.1717 N   0  0  0  0  0  0
+  -23.7746   18.0784  -11.2328 C   0  0  0  0  0  0
+  -23.8224   20.5375  -11.4053 C   0  0  0  0  0  0
+  -23.3314   21.7359  -11.4184 N   0  0  0  0  0  0
+  -24.2224   22.7254  -11.7046 C   0  0  0  0  0  0
+  -25.5807   22.6609  -11.9524 C   0  0  0  0  0  0
+  -25.9986   23.9773  -12.1713 C   0  0  0  0  0  0
+  -25.0023   24.8542  -12.0623 N   0  0  0  0  0  0
+  -23.9132   24.0951  -11.7141 N   0  0  0  0  0  0
+  -22.6633   24.7249  -11.4224 C   0  0  0  0  0  0
+  -22.4833   26.0318  -11.7243 N   0  0  0  0  0  0
+  -21.2837   26.6491  -11.4657 N   0  0  0  0  0  0
+  -20.2854   25.9387  -10.9115 C   0  0  0  0  0  0
+  -18.8274   26.7927  -10.6478 Cl  0  0  0  0  0  0
+  -20.4194   24.6080  -10.5757 C   0  0  0  0  0  0
+  -21.6391   23.9850  -10.8351 C   0  0  0  0  0  0
+  -26.3924   21.4910  -11.9840 C   0  0  0  0  0  0
+  -27.0995   20.5738  -12.0291 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-172.64989808,-71.31758794,-128.93709917,63.54131953,-30.34995682,-59.26770095
+-36.24730976,-162.40563899
+
+>  <CHROM.1>
+1.81878059,167.58478759,-22.87435473,23.30224151,-11.38696162,-2.26523077
+-0.22704133,-0.06524994
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-38.2553
+
+>  <SCORE.INTER>
+-10.6689
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-2.26801
+
+>  <SCORE.INTER.REPUL>
+0.0202964
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-10.4591
+
+>  <SCORE.INTER.norm>
+-0.56152
+
+>  <SCORE.INTRA>
+-20.8985
+
+>  <SCORE.INTRA.DIHEDRAL>
+-45.0014
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.60225
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.09992
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-6.68796
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+9.54102
+
+>  <SCORE.SYSTEM.POLAR>
+-4.51974
+
+>  <SCORE.SYSTEM.REPUL>
+0.0353937
+
+>  <SCORE.SYSTEM.VDW>
+3.73169
+
+>  <SCORE.SYSTEM.norm>
+-0.351998
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-2.01344
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -23.0006   20.2424   -8.5010 C   0  0  0  0  0  0
+  -24.4108   20.4112   -8.8184 N   0  0  0  0  0  0
+  -25.2880   19.3110   -8.4627 C   0  0  0  0  0  0
+  -24.8144   21.4024   -9.6797 C   0  0  0  0  0  0
+  -24.0969   22.3981  -10.0933 N   0  0  0  0  0  0
+  -24.7163   23.2349  -10.9716 C   0  0  0  0  0  0
+  -26.0105   23.2225  -11.4567 C   0  0  0  0  0  0
+  -26.1138   24.3209  -12.3159 C   0  0  0  0  0  0
+  -24.9836   25.0217  -12.3871 N   0  0  0  0  0  0
+  -24.1336   24.3923  -11.5124 N   0  0  0  0  0  0
+  -22.8343   24.9327  -11.2604 C   0  0  0  0  0  0
+  -22.4978   26.1392  -11.7731 N   0  0  0  0  0  0
+  -21.2484   26.6666  -11.5545 N   0  0  0  0  0  0
+  -20.3587   25.9683  -10.8271 C   0  0  0  0  0  0
+  -18.8266   26.7018  -10.6291 Cl  0  0  0  0  0  0
+  -20.6535   24.7399  -10.2742 C   0  0  0  0  0  0
+  -21.9234   24.2088  -10.4938 C   0  0  0  0  0  0
+  -27.0330   22.2799  -11.1493 C   0  0  0  0  0  0
+  -27.9003   21.5396  -10.9415 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-170.24811037,64.79899220,73.00063661,67.04354945,34.93622235,-56.92733887
+-156.41775309,-159.09745028
+
+>  <CHROM.1>
+2.81131730,-173.20390046,-23.33877436,23.73562566,-10.65233325,-2.48149890
+-0.33785749,-0.57911647
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-24.6684
+
+>  <SCORE.INTER>
+-9.19602
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-2.44201
+
+>  <SCORE.INTER.REPUL>
+0.561621
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-11.1013
+
+>  <SCORE.INTER.norm>
+-0.484001
+
+>  <SCORE.INTRA>
+-21.0485
+
+>  <SCORE.INTRA.DIHEDRAL>
+-45.3722
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.63766
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.10781
+
+>  <SCORE.RESTR>
+0.585539
+
+>  <SCORE.RESTR.CAVITY>
+0.585539
+
+>  <SCORE.RESTR.norm>
+0.0308179
+
+>  <SCORE.SYSTEM>
+4.99049
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+5.73642
+
+>  <SCORE.SYSTEM.POLAR>
+-3.50356
+
+>  <SCORE.SYSTEM.VDW>
+14.0344
+
+>  <SCORE.SYSTEM.norm>
+0.262657
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.29834
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -21.7398   19.5993  -11.6229 C   0  0  0  0  0  0
+  -23.0345   19.5050  -10.9650 N   0  0  0  0  0  0
+  -23.7002   18.2171  -11.0331 C   0  0  0  0  0  0
+  -23.7077   20.6429  -10.5918 C   0  0  0  0  0  0
+  -23.2194   21.8414  -10.5420 N   0  0  0  0  0  0
+  -24.0990   22.8117  -10.1679 C   0  0  0  0  0  0
+  -25.4247   22.7181   -9.7881 C   0  0  0  0  0  0
+  -25.8376   24.0214   -9.4943 C   0  0  0  0  0  0
+  -24.8612   24.9136   -9.6494 N   0  0  0  0  0  0
+  -23.7668   24.1665  -10.0069 N   0  0  0  0  0  0
+  -22.4930   24.7938  -10.1730 C   0  0  0  0  0  0
+  -22.3700   26.1268   -9.9743 N   0  0  0  0  0  0
+  -21.1572   26.7489  -10.1450 N   0  0  0  0  0  0
+  -20.0908   26.0188  -10.5165 C   0  0  0  0  0  0
+  -18.6330   26.8891  -10.7211 Cl  0  0  0  0  0  0
+  -20.1595   24.6569  -10.7224 C   0  0  0  0  0  0
+  -21.3903   24.0273  -10.5444 C   0  0  0  0  0  0
+  -26.2146   21.5352   -9.7146 C   0  0  0  0  0  0
+  -26.9062   20.6079   -9.6429 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+172.19870655,-74.08200396,109.22344381,-143.85023553,-29.26119779,60.33130773
+83.21086239,-161.49434792
+
+>  <CHROM.1>
+2.42408374,179.83362826,-22.72912915,23.39070469,-10.36416345,-2.28203421
+0.25224993,0.18946915
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-37.8964
+
+>  <SCORE.INTER>
+-13.4402
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-2.55267
+
+>  <SCORE.INTER.REPUL>
+0.0501195
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-12.4117
+
+>  <SCORE.INTER.norm>
+-0.70738
+
+>  <SCORE.INTRA>
+-21.1259
+
+>  <SCORE.INTRA.DIHEDRAL>
+-45.57
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.65912
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.11189
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-3.33032
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+14.6882
+
+>  <SCORE.SYSTEM.POLAR>
+-4.57379
+
+>  <SCORE.SYSTEM.REPUL>
+0.0404102
+
+>  <SCORE.SYSTEM.VDW>
+4.67443
+
+>  <SCORE.SYSTEM.norm>
+-0.17528
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.99455
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -20.2783   22.1956  -13.4642 C   0  0  0  0  0  0
+  -21.1457   21.0276  -13.4993 N   0  0  0  0  0  0
+  -22.4188   21.1490  -12.8130 C   0  0  0  0  0  0
+  -20.6481   19.8049  -13.8794 C   0  0  0  0  0  0
+  -19.5084   19.5856  -14.4542 N   0  0  0  0  0  0
+  -19.2273   18.2770  -14.7060 C   0  0  0  0  0  0
+  -19.9923   17.1435  -14.5042 C   0  0  0  0  0  0
+  -19.2201   16.0684  -14.9548 C   0  0  0  0  0  0
+  -18.0391   16.4535  -15.4350 N   0  0  0  0  0  0
+  -18.0601   17.8226  -15.3409 N   0  0  0  0  0  0
+  -16.9716   18.5939  -15.8549 C   0  0  0  0  0  0
+  -17.1549   19.9027  -16.1466 N   0  0  0  0  0  0
+  -16.1248   20.6551  -16.6562 N   0  0  0  0  0  0
+  -14.9297   20.0756  -16.8668 C   0  0  0  0  0  0
+  -13.7198   21.0916  -17.5213 Cl  0  0  0  0  0  0
+  -14.6871   18.7492  -16.5778 C   0  0  0  0  0  0
+  -15.7328   17.9890  -16.0567 C   0  0  0  0  0  0
+  -21.3009   17.0800  -13.9458 C   0  0  0  0  0  0
+  -22.3617   16.9672  -13.4925 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-61.38497474,-74.29291011,-9.33624466,62.78788957,-30.11779640,-57.14255264
+-36.76622972,-166.39794252
+
+>  <CHROM.1>
+3.50494842,-20.87436194,-18.16436833,19.20379424,-15.23004708,3.01679354
+-0.47991498,-3.06251124
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-38.609
+
+>  <SCORE.INTER>
+-12.3621
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.773146
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-17.1334
+
+>  <SCORE.INTER.norm>
+-0.650637
+
+>  <SCORE.INTRA>
+-18.8025
+
+>  <SCORE.INTRA.DIHEDRAL>
+-43.9676
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0.33282
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.51714
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-0.989607
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-7.44436
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+9.43783
+
+>  <SCORE.SYSTEM.POLAR>
+-4.63703
+
+>  <SCORE.SYSTEM.REPUL>
+0.0407622
+
+>  <SCORE.SYSTEM.VDW>
+3.39881
+
+>  <SCORE.SYSTEM.norm>
+-0.391808
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-2.03205
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -25.4304   23.0720   -7.8088 C   0  0  0  0  0  0
+  -26.4054   22.9871   -8.8859 N   0  0  0  0  0  0
+  -27.6995   22.4275   -8.5416 C   0  0  0  0  0  0
+  -26.0090   23.1294  -10.1935 C   0  0  0  0  0  0
+  -24.8638   23.5740  -10.6037 N   0  0  0  0  0  0
+  -24.6987   23.5927  -11.9555 C   0  0  0  0  0  0
+  -25.5717   23.2403  -12.9676 C   0  0  0  0  0  0
+  -24.8902   23.4719  -14.1665 C   0  0  0  0  0  0
+  -23.6650   23.9561  -13.9723 N   0  0  0  0  0  0
+  -23.5609   24.0911  -12.6105 N   0  0  0  0  0  0
+  -22.3907   24.6767  -12.0348 C   0  0  0  0  0  0
+  -22.1861   26.0103  -12.1399 N   0  0  0  0  0  0
+  -21.0594   26.5878  -11.6067 N   0  0  0  0  0  0
+  -20.1569   25.8119  -10.9808 C   0  0  0  0  0  0
+  -18.7810   26.6229  -10.3696 Cl  0  0  0  0  0  0
+  -20.3215   24.4502  -10.8376 C   0  0  0  0  0  0
+  -21.4677   23.8673  -11.3757 C   0  0  0  0  0  0
+  -26.8963   22.7379  -12.8217 C   0  0  0  0  0  0
+  -27.9758   22.3199  -12.7636 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+179.76425484,65.64145231,-131.10574393,63.89865343,-31.23427342,-60.06583050
+-155.97164869,-163.50320152
+
+>  <CHROM.1>
+1.65862932,-107.12642610,-23.52701530,24.23000932,-11.26693297,-3.12720136
+-0.44452870,-1.55467489
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-30.792
+
+>  <SCORE.INTER>
+-9.86672
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-1.62577
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-11.7391
+
+>  <SCORE.INTER.norm>
+-0.519301
+
+>  <SCORE.INTRA>
+-15.7384
+
+>  <SCORE.INTRA.DIHEDRAL>
+-33.8381
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.18058
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-0.828339
+
+>  <SCORE.RESTR>
+1.32846
+
+>  <SCORE.RESTR.CAVITY>
+1.32846
+
+>  <SCORE.RESTR.norm>
+0.0699189
+
+>  <SCORE.SYSTEM>
+-6.51527
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+8.53598
+
+>  <SCORE.SYSTEM.POLAR>
+-4.22116
+
+>  <SCORE.SYSTEM.VDW>
+3.56867
+
+>  <SCORE.SYSTEM.norm>
+-0.342909
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.62063
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -18.1433   13.6064  -15.5030 C   0  0  0  0  0  0
+  -17.3633   14.2251  -16.5644 N   0  0  0  0  0  0
+  -16.6556   13.3230  -17.4543 C   0  0  0  0  0  0
+  -17.0685   15.5660  -16.5176 C   0  0  0  0  0  0
+  -17.6078   16.4428  -15.7317 N   0  0  0  0  0  0
+  -17.1234   17.7097  -15.8558 C   0  0  0  0  0  0
+  -16.2029   18.2315  -16.7451 C   0  0  0  0  0  0
+  -16.0888   19.5900  -16.4338 C   0  0  0  0  0  0
+  -16.8821   19.9516  -15.4270 N   0  0  0  0  0  0
+  -17.5697   18.8086  -15.1040 N   0  0  0  0  0  0
+  -18.5923   18.8443  -14.1055 C   0  0  0  0  0  0
+  -19.0474   17.6883  -13.5689 N   0  0  0  0  0  0
+  -20.0407   17.7028  -12.6201 N   0  0  0  0  0  0
+  -20.5607   18.8803  -12.2313 C   0  0  0  0  0  0
+  -21.8042   18.7897  -11.0608 Cl  0  0  0  0  0  0
+  -20.1265   20.0868  -12.7388 C   0  0  0  0  0  0
+  -19.1156   20.0698  -13.6983 C   0  0  0  0  0  0
+  -15.5060   17.5289  -17.7695 C   0  0  0  0  0  0
+  -14.9063   17.0080  -18.6134 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-61.15790070,-74.65708635,-128.18766603,64.08515759,-32.03814991,61.32669331
+83.06346217,-163.67720205
+
+>  <CHROM.1>
+4.51276450,15.06618132,-18.22357229,17.60338706,-14.83382706,0.57101201,-0.78545590
+-2.93782406
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-40.5832
+
+>  <SCORE.INTER>
+-14.7881
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-1.40769
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-17.402
+
+>  <SCORE.INTER.norm>
+-0.778323
+
+>  <SCORE.INTRA>
+-18.6749
+
+>  <SCORE.INTRA.DIHEDRAL>
+-44.6036
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0.416329
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.54519
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-0.982892
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-7.1201
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+9.29553
+
+>  <SCORE.SYSTEM.POLAR>
+-4.53914
+
+>  <SCORE.SYSTEM.REPUL>
+0.0413595
+
+>  <SCORE.SYSTEM.VDW>
+3.45841
+
+>  <SCORE.SYSTEM.norm>
+-0.374742
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-2.13596
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -21.4955   24.3616  -11.0923 C   0  0  0  0  0  0
+  -22.5962   23.5004  -10.6865 N   0  0  0  0  0  0
+  -23.5944   24.0960   -9.8174 C   0  0  0  0  0  0
+  -22.5122   22.1399  -10.8574 C   0  0  0  0  0  0
+  -21.6350   21.5094  -11.5717 N   0  0  0  0  0  0
+  -21.7431   20.1517  -11.5589 C   0  0  0  0  0  0
+  -22.6345   19.3323  -10.8921 C   0  0  0  0  0  0
+  -22.3011   18.0225  -11.2506 C   0  0  0  0  0  0
+  -21.2786   17.9707  -12.1023 N   0  0  0  0  0  0
+  -20.9670   19.2850  -12.3452 N   0  0  0  0  0  0
+  -19.9556   19.6182  -13.2991 C   0  0  0  0  0  0
+  -19.9021   20.8696  -13.8116 N   0  0  0  0  0  0
+  -18.9471   21.2030  -14.7410 N   0  0  0  0  0  0
+  -18.0655   20.2696  -15.1408 C   0  0  0  0  0  0
+  -16.9302   20.7784  -16.3142 Cl  0  0  0  0  0  0
+  -18.0700   18.9834  -14.6434 C   0  0  0  0  0  0
+  -19.0373   18.6488  -13.6972 C   0  0  0  0  0  0
+  -23.6794   19.7372  -10.0129 C   0  0  0  0  0  0
+  -24.5395   20.0076   -9.2847 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-177.66830500,-74.17960838,-9.00362050,-61.28339323,-30.64906709,-59.76527891
+-157.04653602,-163.00662088
+
+>  <CHROM.1>
+-0.74231970,-18.68771394,-20.73951345,20.63915128,-12.56882782,-2.93710203
+-0.75720117,-3.09869196
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-32.2103
+
+>  <SCORE.INTER>
+-6.33328
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+0
+
+>  <SCORE.INTER.REPUL>
+0.0352425
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-13.9095
+
+>  <SCORE.INTER.norm>
+-0.33333
+
+>  <SCORE.INTRA>
+-18.8486
+
+>  <SCORE.INTRA.DIHEDRAL>
+-44.1573
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0.33763
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.54197
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-0.992029
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-7.02852
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+9.42474
+
+>  <SCORE.SYSTEM.POLAR>
+-4.6601
+
+>  <SCORE.SYSTEM.REPUL>
+0.0405737
+
+>  <SCORE.SYSTEM.VDW>
+3.90058
+
+>  <SCORE.SYSTEM.norm>
+-0.369922
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.69528
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -21.2181   18.4877  -11.7908 C   0  0  0  0  0  0
+  -22.6217   18.4820  -12.1749 N   0  0  0  0  0  0
+  -23.1988   17.1881  -12.4903 C   0  0  0  0  0  0
+  -23.2512   19.6530  -12.5210 C   0  0  0  0  0  0
+  -22.8019   20.8519  -12.3259 N   0  0  0  0  0  0
+  -23.6013   21.8537  -12.7868 C   0  0  0  0  0  0
+  -24.8463   21.8003  -13.3849 C   0  0  0  0  0  0
+  -25.2115   23.1256  -13.6409 C   0  0  0  0  0  0
+  -24.2913   23.9971  -13.2318 N   0  0  0  0  0  0
+  -23.3203   23.2225  -12.6479 N   0  0  0  0  0  0
+  -22.1997   23.8380  -12.0083 C   0  0  0  0  0  0
+  -22.1891   25.1775  -11.8151 N   0  0  0  0  0  0
+  -21.1138   25.7879  -11.2166 N   0  0  0  0  0  0
+  -20.0666   25.0396  -10.8270 C   0  0  0  0  0  0
+  -18.7710   25.8957  -10.1108 Cl  0  0  0  0  0  0
+  -20.0309   23.6709  -10.9914 C   0  0  0  0  0  0
+  -21.1251   23.0533  -11.5950 C   0  0  0  0  0  0
+  -25.6043   20.6326  -13.6854 C   0  0  0  0  0  0
+  -26.2615   19.7180  -13.9591 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-177.55156767,-168.13442293,-8.40759756,63.48210362,-29.79846398,-57.76663060
+83.46838993,-161.69396146
+
+>  <CHROM.1>
+2.93971637,-171.08005234,-22.39610269,22.42026643,-12.09630294,-2.24927746
+-0.47401024,0.01759485
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-33.4183
+
+>  <SCORE.INTER>
+-6.6997
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+0
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-14.0997
+
+>  <SCORE.INTER.norm>
+-0.352616
+
+>  <SCORE.INTRA>
+-20.995
+
+>  <SCORE.INTRA.DIHEDRAL>
+-45.2371
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.62355
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.105
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-5.72356
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+9.51066
+
+>  <SCORE.SYSTEM.POLAR>
+-4.27465
+
+>  <SCORE.SYSTEM.VDW>
+4.05492
+
+>  <SCORE.SYSTEM.norm>
+-0.30124
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.75886
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -22.8405   19.1525  -11.3052 C   0  0  0  0  0  0
+  -24.0356   19.6052  -12.0015 N   0  0  0  0  0  0
+  -24.9916   18.5791  -12.3754 C   0  0  0  0  0  0
+  -24.0878   20.8670  -12.5419 C   0  0  0  0  0  0
+  -23.2603   21.8358  -12.3095 N   0  0  0  0  0  0
+  -23.5085   22.9879  -12.9921 C   0  0  0  0  0  0
+  -24.5471   23.3167  -13.8428 C   0  0  0  0  0  0
+  -24.3132   24.6337  -14.2505 C   0  0  0  0  0  0
+  -23.2146   25.1504  -13.7031 N   0  0  0  0  0  0
+  -22.7445   24.1605  -12.8768 N   0  0  0  0  0  0
+  -21.6060   24.3999  -12.0460 C   0  0  0  0  0  0
+  -21.3551   25.6509  -11.5948 N   0  0  0  0  0  0
+  -20.2569   25.9022  -10.8087 N   0  0  0  0  0  0
+  -19.4287   24.8905  -10.4943 C   0  0  0  0  0  0
+  -18.0814   25.3102   -9.5283 Cl  0  0  0  0  0  0
+  -19.6435   23.5964  -10.9195 C   0  0  0  0  0  0
+  -20.7609   23.3431  -11.7134 C   0  0  0  0  0  0
+  -25.6344   22.4830  -14.2315 C   0  0  0  0  0  0
+  -26.5366   21.8482  -14.5871 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-59.87074650,-166.93885939,-46.74780890,65.14386046,168.61893968,61.79270990
+83.41359357,-163.36629378
+
+>  <CHROM.1>
+3.95897424,-150.44795792,-22.32507788,23.16124665,-12.08636651,-2.72475000
+-0.61344769,-0.31140325
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-29.5257
+
+>  <SCORE.INTER>
+-8.36804
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.894427
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-12.727
+
+>  <SCORE.INTER.norm>
+-0.440423
+
+>  <SCORE.INTRA>
+-19.775
+
+>  <SCORE.INTRA.DIHEDRAL>
+-42.3627
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.40639
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.04079
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-1.38265
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+3.56907
+
+>  <SCORE.SYSTEM.POLAR>
+-3.58706
+
+>  <SCORE.SYSTEM.VDW>
+9.02882
+
+>  <SCORE.SYSTEM.norm>
+-0.0727708
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.55398
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -18.8501   17.6312  -14.8375 C   0  0  0  0  0  0
+  -17.9054   18.7364  -14.8996 N   0  0  0  0  0  0
+  -18.2471   19.9206  -14.1332 C   0  0  0  0  0  0
+  -16.9326   18.7641  -15.8692 C   0  0  0  0  0  0
+  -16.5849   17.7793  -16.6351 N   0  0  0  0  0  0
+  -15.6102   18.0654  -17.5424 C   0  0  0  0  0  0
+  -14.8426   19.2040  -17.7005 C   0  0  0  0  0  0
+  -13.9873   18.9495  -18.7771 C   0  0  0  0  0  0
+  -14.1578   17.7315  -19.2880 N   0  0  0  0  0  0
+  -15.1166   17.1564  -18.4921 N   0  0  0  0  0  0
+  -15.4946   15.7927  -18.6955 C   0  0  0  0  0  0
+  -14.9560   15.0925  -19.7208 N   0  0  0  0  0  0
+  -15.3196   13.7862  -19.9409 N   0  0  0  0  0  0
+  -16.2217   13.2093  -19.1274 C   0  0  0  0  0  0
+  -16.6212   11.5881  -19.4969 Cl  0  0  0  0  0  0
+  -16.7931   13.8744  -18.0631 C   0  0  0  0  0  0
+  -16.4194   15.1985  -17.8393 C   0  0  0  0  0  0
+  -14.9104   20.3984  -16.9277 C   0  0  0  0  0  0
+  -14.9256   21.3959  -16.3377 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-59.79034020,-167.74854333,109.63358900,64.32161533,-30.88973713,-166.17285781
+-37.22051445,-163.05999706
+
+>  <CHROM.1>
+6.67794646,176.18917131,-16.08273729,16.64926872,-17.70548353,1.61640632
+0.72571902,0.43823525
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-39.5535
+
+>  <SCORE.INTER>
+-12.6983
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.9282
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-16.9424
+
+>  <SCORE.INTER.norm>
+-0.668329
+
+>  <SCORE.INTRA>
+-21.0062
+
+>  <SCORE.INTRA.DIHEDRAL>
+-45.2471
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.61728
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.10559
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-5.84899
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+9.5765
+
+>  <SCORE.SYSTEM.POLAR>
+-4.27077
+
+>  <SCORE.SYSTEM.VDW>
+3.88337
+
+>  <SCORE.SYSTEM.norm>
+-0.307841
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-2.08176
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -22.7506   19.1003  -11.3956 C   0  0  0  0  0  0
+  -23.9547   19.5284  -12.0919 N   0  0  0  0  0  0
+  -24.8786   18.4808  -12.4860 C   0  0  0  0  0  0
+  -24.0407   20.7960  -12.6142 C   0  0  0  0  0  0
+  -23.2427   21.7847  -12.3631 N   0  0  0  0  0  0
+  -23.5207   22.9391  -13.0303 C   0  0  0  0  0  0
+  -24.5701   23.2539  -13.8731 C   0  0  0  0  0  0
+  -24.3690   24.5811  -14.2649 C   0  0  0  0  0  0
+  -23.2807   25.1167  -13.7150 N   0  0  0  0  0  0
+  -22.7842   24.1279  -12.9029 N   0  0  0  0  0  0
+  -21.6485   24.3838  -12.0732 C   0  0  0  0  0  0
+  -21.3952   25.6446  -11.6517 N   0  0  0  0  0  0
+  -20.2996   25.9114  -10.8672 N   0  0  0  0  0  0
+  -19.4763   24.9050  -10.5244 C   0  0  0  0  0  0
+  -18.1317   25.3437   -9.5631 Cl  0  0  0  0  0  0
+  -19.6937   23.6016  -10.9187 C   0  0  0  0  0  0
+  -20.8085   23.3327  -11.7111 C   0  0  0  0  0  0
+  -25.6389   22.3996  -14.2683 C   0  0  0  0  0  0
+  -26.5272   21.7481  -14.6287 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-178.96922589,66.90558709,-167.94524954,63.29504202,168.41617797,-57.70982376
+-36.40470689,-165.74559201
+
+>  <CHROM.1>
+4.56825442,-153.11808832,-22.33526467,23.12788787,-12.13005898,-2.69508719
+-0.61694823,-0.28187955
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-30.0409
+
+>  <SCORE.INTER>
+-8.29265
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.894427
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-12.6516
+
+>  <SCORE.INTER.norm>
+-0.436455
+
+>  <SCORE.INTRA>
+-19.9803
+
+>  <SCORE.INTRA.DIHEDRAL>
+-42.8286
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.43397
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.0516
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-1.76796
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+2.79209
+
+>  <SCORE.SYSTEM.POLAR>
+-3.528
+
+>  <SCORE.SYSTEM.VDW>
+8.8312
+
+>  <SCORE.SYSTEM.norm>
+-0.0930506
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.5811
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -23.2758   19.8831  -10.1581 C   0  0  0  0  0  0
+  -24.4383   20.0682  -11.0137 N   0  0  0  0  0  0
+  -25.3591   18.9497  -11.1014 C   0  0  0  0  0  0
+  -24.4790   21.1045  -11.9145 C   0  0  0  0  0  0
+  -23.6782   22.1218  -11.9500 N   0  0  0  0  0  0
+  -23.9055   23.0047  -12.9618 C   0  0  0  0  0  0
+  -24.8908   23.0191  -13.9311 C   0  0  0  0  0  0
+  -24.6600   24.1621  -14.7028 C   0  0  0  0  0  0
+  -23.6134   24.8652  -14.2738 N   0  0  0  0  0  0
+  -23.1784   24.1893  -13.1614 N   0  0  0  0  0  0
+  -22.1051   24.7148  -12.3767 C   0  0  0  0  0  0
+  -21.9470   26.0543  -12.2667 N   0  0  0  0  0  0
+  -20.9119   26.5768  -11.5300 N   0  0  0  0  0  0
+  -20.0521   25.7415  -10.9205 C   0  0  0  0  0  0
+  -18.7881   26.4901  -10.0451 Cl  0  0  0  0  0  0
+  -20.1736   24.3698  -10.9924 C   0  0  0  0  0  0
+  -21.2272   23.8421  -11.7370 C   0  0  0  0  0  0
+  -25.9296   22.0618  -14.1126 C   0  0  0  0  0  0
+  -26.7905   21.3119  -14.3120 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-179.50963828,-75.18494825,75.64818968,63.24736009,169.21655754,-178.78522382
+82.92007571,-52.09916637
+
+>  <CHROM.1>
+2.91055778,-147.79530907,-22.79590432,23.49479515,-12.07920706,-2.72624096
+-0.68553080,-0.61977199
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-26.8716
+
+>  <SCORE.INTER>
+-7.06418
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-2.43708
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-6.1781
+
+>  <SCORE.INTER.norm>
+-0.371799
+
+>  <SCORE.INTRA>
+-19.5537
+
+>  <SCORE.INTRA.DIHEDRAL>
+-41.8718
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.38215
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.02914
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-0.253627
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+6.40042
+
+>  <SCORE.SYSTEM.POLAR>
+-3.60618
+
+>  <SCORE.SYSTEM.REPUL>
+0.0485934
+
+>  <SCORE.SYSTEM.VDW>
+8.5642
+
+>  <SCORE.SYSTEM.norm>
+-0.0133488
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-1.41429
+
+$$$$
+F1408-0085
+  rDOCK(R)          3D
+libRbt.so/2013.1/901 2013/11/27
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -16.2445   14.0164  -16.7671 C   0  0  0  0  0  0
+  -15.5923   15.0303  -17.5823 N   0  0  0  0  0  0
+  -14.5618   14.5624  -18.4910 C   0  0  0  0  0  0
+  -15.7258   16.3618  -17.2718 C   0  0  0  0  0  0
+  -16.5791   16.8743  -16.4432 N   0  0  0  0  0  0
+  -16.4940   18.2242  -16.2829 C   0  0  0  0  0  0
+  -15.6021   19.1336  -16.8196 C   0  0  0  0  0  0
+  -15.9865   20.3874  -16.3344 C   0  0  0  0  0  0
+  -17.0599   20.3239  -15.5488 N   0  0  0  0  0  0
+  -17.4162   18.9986  -15.5606 N   0  0  0  0  0  0
+  -18.5991   18.5675  -14.8833 C   0  0  0  0  0  0
+  -19.3222   19.4563  -14.1631 N   0  0  0  0  0  0
+  -20.4525   19.0564  -13.4928 N   0  0  0  0  0  0
+  -20.8326   17.7681  -13.5562 C   0  0  0  0  0  0
+  -22.2407   17.3677  -12.6722 Cl  0  0  0  0  0  0
+  -20.1377   16.8245  -14.2830 C   0  0  0  0  0  0
+  -18.9935   17.2336  -14.9659 C   0  0  0  0  0  0
+  -14.5085   18.8526  -17.6878 C   0  0  0  0  0  0
+  -13.6018   18.6827  -18.3894 N   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 18 19  3  0  0  0
+M  END
+>  <CHROM.0>
+-179.89879947,-73.48373944,-128.66146806,-61.69697209,-29.52116205,60.03664767
+-36.90684384,-163.05759073
+
+>  <CHROM.1>
+-3.21001802,175.73563347,-17.73119078,17.69165371,-15.62047614,0.21414194
+-0.58944797,-2.98166513
+
+>  <Name>
+F1408-0085
+
+>  <RI>
+3.25779e+07
+
+>  <Rbt.Current_Directory>
+/home/adria/Escritorio/rDock_CMTR_LC/2pxcA_model/inputs_sah
+
+>  <Rbt.Executable>
+rbdock ($Id: //depot/dev/client3/rdock/2013.1/src/exe/rbdock.cxx#4 $)
+
+>  <Rbt.Library>
+libRbt.so (2013.1, Build901 2013/11/27)
+
+>  <Rbt.Parameter_File>
+/home/adria/Escritorio/rDock_2013.1_src/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+sah_rdock.prm
+
+>  <SCORE>
+-39.4816
+
+>  <SCORE.INTER>
+-11.9773
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.846065
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+2
+
+>  <SCORE.INTER.VDW>
+-16.5007
+
+>  <SCORE.INTER.norm>
+-0.630385
+
+>  <SCORE.INTRA>
+-20.8886
+
+>  <SCORE.INTRA.DIHEDRAL>
+-45.0626
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+45.6498
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.64273
+
+>  <SCORE.INTRA.VDW.0>
+-1.33662
+
+>  <SCORE.INTRA.norm>
+-1.0994
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-6.61577
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+9.55389
+
+>  <SCORE.SYSTEM.POLAR>
+-4.54294
+
+>  <SCORE.SYSTEM.REPUL>
+0.0393879
+
+>  <SCORE.SYSTEM.VDW>
+3.85636
+
+>  <SCORE.SYSTEM.norm>
+-0.348198
+
+>  <SCORE.heavy>
+19
+
+>  <SCORE.norm>
+-2.07798
+
+$$$$
